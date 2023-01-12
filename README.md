@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" width="49" alt="vscode logo"  />
 </div>
 
-###
+
 
 https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
 
