@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a>
 
+<img src="https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
+
 
 
 <h3 align="left">🌱 I’m currently learning:</h3>
