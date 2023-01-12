@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" width="49" alt="vscode logo"  />
 </div>
 
-
+<img src="https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake.svg#gh-light-mode-only)
