@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
 
 ###
 
