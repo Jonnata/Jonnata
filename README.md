@@ -62,7 +62,7 @@ Tools:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" width="49" alt="vscode logo"></a>
 
 
-<h3 align="left">🌱 I’m currently learning:</h3>
+<h3 align="left">🌱 I intend to learn:</h3>
 
 ###
 
