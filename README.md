@@ -80,6 +80,26 @@ Tools:
 
 ###
 
+![html](https://img.shields.io/badge/-HTML-rgb(66,66,66)?style=flat-square)
+![css](https://img.shields.io/badge/-CSS-rgb(66,66,66)?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-rgb(66,66,66)?style=flat-square)
+![node](https://img.shields.io/badge/-NODE.JS-rgb(66,66,66)?style=flat-square)
+![express](https://img.shields.io/badge/-EXPRESS-rgb(66,66,66)?style=flat-square)
+![react](https://img.shields.io/badge/-REACT-rgb(66,66,66)?style=flat-square)
+![git](https://img.shields.io/badge/-GIT&GITHUB-rgb(66,66,66)?style=flat-square)
+![figma](https://img.shields.io/badge/-FIGMA-rgb(66,66,66)?style=flat-square)
+![mysql](https://img.shields.io/badge/-MYSQL-rgb(66,66,66)?style=flat-square)
+![npm](https://img.shields.io/badge/-NPM-rgb(66,66,66)?style=flat-square)
+![sequelize](https://img.shields.io/badge/-SEQUELIZE-rgb(66,66,66)?style=flat-square)
+![middleare](https://img.shields.io/badge/-MIDDLEARE-rgb(66,66,66)?style=flat-square)
+![frontend](https://img.shields.io/badge/-FRONT-rgb(66,66,66)?style=flat-square)
+![backend](https://img.shields.io/badge/-BACK-rgb(66,66,66)?style=flat-square)
+![java](https://img.shields.io/badge/-JAVA-rgb(66,66,66)?style=flat-square)
+![mvc](https://img.shields.io/badge/-MVC-rgb(66,66,66)?style=flat-square)
+![scrum](https://img.shields.io/badge/-SCRUM-rgb(66,66,66)?style=flat-square)
+![vscode](https://img.shields.io/badge/-VSCODE-rgb(66,66,66)?style=flat-square)
+![bash](https://img.shields.io/badge/-BASH-rgb(66,66,66)?style=flat-square)
+![markdown](https://img.shields.io/badge/-MARKDOWN-rgb(66,66,66)?style=flat-square)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jonnata" height="150" alt="stats graph"  />
