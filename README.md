@@ -42,11 +42,9 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jonnata" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jonnata" height="150" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
+<!--![github contribution grid snake animation](https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake.svg#gh-light-mode-only)-->
 ###
 
 Front-End: 
@@ -62,12 +60,6 @@ Tools:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="37" width="49" alt="markdown logo"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" width="49" alt="figma logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="37" width="49" alt="slack logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" width="49" alt="vscode logo"></a>
-
-
-<img src="https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<!--![github contribution grid snake animation](https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake.svg#gh-light-mode-only)-->
-
 
 
 <h3 align="left">🌱 I’m currently learning:</h3>
@@ -86,3 +78,11 @@ Tools:
 <p align="left">💬 Ask me about anything and everything!<br>📫 How to reach me: message me at <a href="https://t.me/JonnataCosta">Telegram</a><br>⚡ Fun fact: I love meeting new people and going to the beach to surf!<br>😄 Pronouns: ele/he/el</p>
 
 ###
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jonnata" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jonnata" height="150" alt="languages graph"  />
+</div>
+
+
