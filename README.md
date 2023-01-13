@@ -43,7 +43,14 @@ Here are some ideas to get you started:
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jonnata" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jonnata" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <!--![github contribution grid snake animation](https://raw.githubusercontent.com/jonnata/jonnata/output/github-contribution-grid-snake.svg#gh-light-mode-only)-->
 ###
@@ -121,10 +128,5 @@ const aboutJonnataCosta = {
     challenge: "I am doing the #100DaysOfCode challenge focused on React and Java"
 };
 ```
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jonnata" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jonnata" height="150" alt="languages graph"  />
-</div>
 
 
