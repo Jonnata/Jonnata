@@ -101,6 +101,27 @@ Tools:
 ![bash](https://img.shields.io/badge/-BASH-rgb(66,66,66)?style=flat-square)
 ![markdown](https://img.shields.io/badge/-MARKDOWN-rgb(66,66,66)?style=flat-square)
 
+```javascript
+const aboutJonnataCosta = {
+    pronouns: "Ele" | "He" | "el",
+    age: 28,
+    state: "Rio de Janeiro",
+    askMeAbout: ["web dev", "tech", "surf", "play soccer", "movies and series"],
+    linkdIn: "https://www.linkedin.com/in/jonnatacosta/",
+    technologies: {
+        frontEnd: ["HTML", "CSS", "JavaScript", "React", "Styled-Components", "EJS", "Tailwind"],
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: ["MySQL", "sequelize"],
+        misc: ["SCRUM", "Git", "GitHub", "Postman", "NPM", "Bash", "Markdown", "Figma", "VSCode", "Trello", "Slack"],
+    },
+    architecture: ["Model-View-Controller"],
+    favoriteApiClient: "Postman",
+    challenge: "I am doing the #100DaysOfCode challenge focused on React and Java"
+};
+```
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jonnata" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jonnata" height="150" alt="languages graph"  />
