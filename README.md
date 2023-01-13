@@ -107,7 +107,7 @@ const aboutJonnataCosta = {
     age: 28,
     state: "Rio de Janeiro",
     askMeAbout: ["web dev", "tech", "surf", "play soccer", "movies and series"],
-    linkdIn: "https://www.linkedin.com/in/jonnatacosta/",
+    linkedIn: "https://www.linkedin.com/in/jonnatacosta/",
     technologies: {
         frontEnd: ["HTML", "CSS", "JavaScript", "React", "Styled-Components", "EJS", "Tailwind"],
         backEnd: {
