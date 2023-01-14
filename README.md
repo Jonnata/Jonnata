@@ -67,7 +67,8 @@ Tools:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="37" width="49" alt="github logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="37" width="49" alt="markdown logo"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" width="49" alt="figma logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="37" width="49" alt="slack logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" width="49" alt="vscode logo"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" width="49" alt="vscode logo">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 
 
 <h3 align="left">🌱 I intend to learn:</h3>
@@ -107,6 +108,7 @@ Tools:
 ![vscode](https://img.shields.io/badge/-VSCODE-rgb(66,66,66)?style=flat-square)
 ![bash](https://img.shields.io/badge/-BASH-rgb(66,66,66)?style=flat-square)
 ![markdown](https://img.shields.io/badge/-MARKDOWN-rgb(66,66,66)?style=flat-square)
+![postman](https://img.shields.io/badge/-POSTMAN-rgb(66,66,66)?style=flat-square)
 
 ```javascript
 const aboutJonnataCosta = {
